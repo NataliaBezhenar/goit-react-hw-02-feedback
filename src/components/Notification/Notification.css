@@ -1,0 +1,7 @@
+.notification {
+  display: block;
+  width: 500px;
+  text-align: center;
+  color: rgb(44, 44, 44);
+  margin-left: 50px;
+}
